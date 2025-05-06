@@ -1,0 +1,100 @@
+* Website introduction content (homepage)
+* About Us content
+* Services overview
+* Testimonials (sample)
+* Booking section prompt
+* Contact section
+
+---
+
+### 🔴 *Website Introduction (Homepage Hero Section)*
+
+*Headline:*
+*Transform Your Body. Elevate Your Life.*
+
+*Subheadline:*
+Welcome to *IronCore Fitness*, Lucknow’s premium gym for strength training, weight loss, and total body transformation. Join a community committed to fitness, guided by certified trainers in a state-of-the-art environment.
+
+*CTA Button:*
+🔘 Book a Free Trial Today
+
+---
+
+### 🟠 *About Us Section*
+
+*Who We Are:*
+IronCore Fitness isn’t just a gym—it’s a lifestyle. Established in 2022 in the heart of Gomti Nagar, we’ve helped hundreds of Lucknow residents get stronger, healthier, and more confident.
+
+*Our Mission:*
+To inspire, support, and transform lives through consistent fitness, nutrition, and motivation.
+
+*Meet Our Trainers:*
+
+* *Ravi Verma* – Strength Coach (7+ years experience)
+* *Nikita Singh* – Certified Nutritionist & Fitness Trainer
+* *Ankur Yadav* – Group Workout Specialist & CrossFit Coach
+
+We believe in personalized attention, real results, and a supportive community.
+
+---
+
+### 🟡 *Our Services*
+
+✅ *Strength & Conditioning Training*
+Build muscle, increase endurance, and boost your performance with expert guidance.
+
+✅ *Weight Loss Programs*
+Customized cardio and diet plans for sustainable weight loss.
+
+✅ *Personal Training*
+One-on-one sessions designed for your goals and fitness level.
+
+✅ *Group Classes*
+High-energy classes including HIIT, Zumba, Yoga, and Functional Training.
+
+✅ *Nutrition Coaching*
+Get meal plans and weekly guidance from certified professionals.
+
+✅ *Body Transformation Plans*
+Track your progress with regular assessments and goal mapping.
+
+---
+
+### 🟢 *Sample Testimonials*
+
+> “The trainers are incredibly supportive and knowledgeable. I lost 12 kg in 5 months and feel better than ever!”
+> *— Riya S., 29*
+
+> “The vibe at IronCore is unbeatable. I look forward to every workout!”
+> *— Aditya M., 34*
+
+---
+
+### 🔵 *Booking Section Prompt (CTA)*
+
+*Ready to start your fitness journey?*
+Sign up for a *free trial session* and meet our team. No commitment, just real results.
+
+🔘 \[Book Now]
+
+---
+
+### 🟣 *Contact Section*
+
+📍 *Location:*
+IronCore Fitness, Gomti Nagar, Lucknow, UP
+
+📞 *Phone:*
++91 98765 43210
+
+✉ *Email:*
+[contact@ironcorefitness.in](mailto:contact@ironcorefitness.in)
+
+📍 *Google Map Integration Here*
+
+📤 *Contact Form Fields:*
+
+* Name
+* Email
+* Message
+* \[Submit]
